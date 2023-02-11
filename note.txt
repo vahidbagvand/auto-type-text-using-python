@@ -1,0 +1,12 @@
+یه تیکه کد ساده و راه اندازه 
+به درد یه جا هایی میخوره که متن رو باید حتما تایپ کنید و امکان کپی کردن وجود نداره
+
+نصب کنید   :
+
+pip install pyautogui
+pip install time
+
+
+لینک ها : 
+
+https://www.askpython.com/python/examples/auto-type-text-using-python
